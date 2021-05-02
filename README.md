@@ -44,8 +44,8 @@ Or
 The website was created by Horiseon Social Solution Services, Inc. and refactored by Juan Orozco
 
 Contact Information:
-    Juan Orozco
-    Email: (jcorozco@gmail.com)
+* Juan Orozco
+* Email: (jcorozco@gmail.com)
 
 
 ## License
