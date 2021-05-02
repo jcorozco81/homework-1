@@ -3,7 +3,7 @@
 
 ## Description
 
-Refactoring was performed to the webpage in order to improve page Accesibility, Consolidate code and Fix Issue.
+Refactoring was performed to the webpage in order to improve page Accesibility, Consolidate code and fixed issues listed below:
 
 * Fixed the page to follow the HTML Semantics structure.
 * Fixed a broken link.
